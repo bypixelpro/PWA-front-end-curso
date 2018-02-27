@@ -1,0 +1,20 @@
+{
+  "name": "pixelpro-pwa",
+  "version": "1.0.0",
+  "description": "Archivos del curso de creación de PWA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "webapp",
+    "pixelpro"
+  ],
+  "author": "David Piqué",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
